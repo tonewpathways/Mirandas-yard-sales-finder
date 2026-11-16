@@ -1,0 +1,6 @@
+{
+  "name": "Miranda's Yard Sale Finder",
+  "description": "A cheerful, neighborhood-friendly marketplace to post and discover local yard sales, garage sales, and estate sales near you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
